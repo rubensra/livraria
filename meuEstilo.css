@@ -1,0 +1,71 @@
+header{
+  background-color: DodgerBlue;
+  padding: 2%;
+  text-align: center;
+  color: white;
+}
+
+nav{
+  float: left;
+  width: 15%;
+  height: 375px;
+  background: LightGrey;
+  padding: 1%;
+}
+
+nav ul{
+  list-style-type: none;
+  padding: 1%;
+}
+
+article{
+  float: left;
+  width: 30%;
+  padding: 1%;
+}
+
+div{
+  width: 100%;
+}
+
+div img{
+  float: right;
+  width: 60%;
+  height: 95%;
+
+}
+
+body{
+  width: 95%;
+}
+
+iframe {
+  border-style: none;
+  width: 83%;
+  height: 400px;
+}
+
+#principal{
+  background-color: Bisque;
+
+}
+
+#suspense{
+  background-color: #222222;
+  color: white;
+}
+
+#ficcao {
+  background-color: SlateBlue;
+  color: white;
+}
+
+#policial{
+  background-color: Grey;
+  color: white;
+}
+
+#romance{
+  background-color: FireBrick;
+  color: white;
+}
